@@ -11,4 +11,9 @@ Duration: Dec to Jan 2025
 Mentor: Neela Santhosh Kumar
 
 OVERVIEW OF THE PROJECT
-Project: 
+
+Project:To develop student developement system
+
+OBJECTIVE
+
+
