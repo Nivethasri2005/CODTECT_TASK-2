@@ -20,6 +20,17 @@ The objective of this program is to create a student management system that can 
 maintain student records, and calculate grades where the system allows the user to add,
 edit, and delete student information.
 
+FEATURES
+
+1. Maintaining of student records and to calculate grades
+2. It allows the user to add,edit and delete the student information
+
 REQUIREMENT
 
-C++ online compiler
+C++ compiler
+
+FUTURE IMPROVEMENTS
+
+1. Set an implementation schedule
+2. Determine how much data to convert
+3. Validate the data
